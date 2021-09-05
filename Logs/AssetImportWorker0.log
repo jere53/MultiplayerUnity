@@ -1,0 +1,1451 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 16331 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+A:\Unity Editors\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+A:/jerem/Desktop/DemoMultiplayer/CapsuleOnline
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64032
+Successfully changed project path to: A:/jerem/Desktop/DemoMultiplayer/CapsuleOnline
+A:/jerem/Desktop/DemoMultiplayer/CapsuleOnline
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path A:/Unity Editors/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path A:/jerem/Desktop/DemoMultiplayer/CapsuleOnline/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'A:/Unity Editors/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'A:/Unity Editors/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'A:/Unity Editors/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56732
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: A:/Unity Editors/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004145 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 23.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.097 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003832 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.785 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1231 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.7 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1669.
+Total: 1.521100 ms (FindLiveObjects: 0.132000 ms CreateObjectMapping: 0.027300 ms MarkObjects: 1.287200 ms  DeleteObjects: 0.073500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.007060 seconds
+  Import took 0.008700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.264508 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(6fde1925840785d4184e8dc85282e25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(6fde1925840785d4184e8dc85282e25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44774bb382d92fdc047d1ac1ff6c4ee2') in 0.006499 seconds
+  Import took 0.008351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004012 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(6fde1925840785d4184e8dc85282e25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(6fde1925840785d4184e8dc85282e25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44774bb382d92fdc047d1ac1ff6c4ee2') in 0.003097 seconds
+  Import took 0.005022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.110917 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(11dfdf51c56b07b489693cc03ccd10f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(11dfdf51c56b07b489693cc03ccd10f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '456661aca49db37086424000266c35cf') in 0.353016 seconds
+  Import took 0.354896 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003327 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.837 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1226 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1680.
+Total: 1.406000 ms (FindLiveObjects: 0.143900 ms CreateObjectMapping: 0.027700 ms MarkObjects: 1.187100 ms  DeleteObjects: 0.046200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003268 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.725 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1226 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1683.
+Total: 1.604600 ms (FindLiveObjects: 0.132500 ms CreateObjectMapping: 0.027200 ms MarkObjects: 1.401700 ms  DeleteObjects: 0.042400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003241 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.729 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1226 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1686.
+Total: 1.498600 ms (FindLiveObjects: 0.115700 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.303700 ms  DeleteObjects: 0.050200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003263 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.730 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1226 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1689.
+Total: 1.535800 ms (FindLiveObjects: 0.143400 ms CreateObjectMapping: 0.027100 ms MarkObjects: 1.317700 ms  DeleteObjects: 0.046000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003414 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.711 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1226 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1692.
+Total: 1.410300 ms (FindLiveObjects: 0.139800 ms CreateObjectMapping: 0.027400 ms MarkObjects: 1.197100 ms  DeleteObjects: 0.045100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003526 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1226 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1695.
+Total: 1.388700 ms (FindLiveObjects: 0.132200 ms CreateObjectMapping: 0.027100 ms MarkObjects: 1.189200 ms  DeleteObjects: 0.039500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1526.020441 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(11dfdf51c56b07b489693cc03ccd10f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(11dfdf51c56b07b489693cc03ccd10f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e20583ddc26d51fcf7fe851ed44f5e4a') in 0.061762 seconds
+  Import took 0.073784 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003258 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.717 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1226 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1699.
+Total: 1.426200 ms (FindLiveObjects: 0.137500 ms CreateObjectMapping: 0.030200 ms MarkObjects: 1.216700 ms  DeleteObjects: 0.041200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003293 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.731 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1233 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.1 MB.
+System memory in use after: 64.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1709.
+Total: 1.365300 ms (FindLiveObjects: 0.111600 ms CreateObjectMapping: 0.027000 ms MarkObjects: 1.185400 ms  DeleteObjects: 0.040400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 215.213896 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d6798c072a7f3bc9dece816870b47da') in 0.052703 seconds
+  Import took 0.054691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller.prefab
+  artifactKey: Guid(11aaea5348574644a9eb4f4504fcce3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller.prefab using Guid(11aaea5348574644a9eb4f4504fcce3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc277372c75f1cd37ccf75a75550b83') in 0.017465 seconds
+  Import took 0.019553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.258302 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e6319bc1e03c86300e8c61410bee18') in 0.009400 seconds
+  Import took 0.011397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.045160 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ac144f7353d2bb96b1918897eefbfe4') in 0.012398 seconds
+  Import took 0.014578 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003778 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.723 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1233 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.2 MB.
+System memory in use after: 64.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1713.
+Total: 1.703600 ms (FindLiveObjects: 0.173800 ms CreateObjectMapping: 0.042200 ms MarkObjects: 1.437100 ms  DeleteObjects: 0.049500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 291.092453 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(0c2dfb7712c1011428e342e8985d1a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(0c2dfb7712c1011428e342e8985d1a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30a04c0c4bd797c4fafb9107f0b26de1') in 0.007898 seconds
+  Import took 0.022945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.154848 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(5f0d70280668d744ab4cba38a3c6cfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(5f0d70280668d744ab4cba38a3c6cfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dd655b2cdb07c39b69d5d1c8879b788') in 0.005763 seconds
+  Import took 0.007622 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003281 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.734 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.2 MB.
+System memory in use after: 64.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1717.
+Total: 1.616300 ms (FindLiveObjects: 0.137000 ms CreateObjectMapping: 0.028200 ms MarkObjects: 1.404100 ms  DeleteObjects: 0.046000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.889495 seconds.
+  path: Assets/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(bf56689cfb1bfd54387f4f517d55d6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NewBehaviourScript.cs using Guid(bf56689cfb1bfd54387f4f517d55d6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f18c1b04cbdd5eb4f28bcc981b86fc0') in 0.009604 seconds
+  Import took 0.011383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.373310 seconds.
+  path: Assets/Scripts/NetworkCommandLine.cs
+  artifactKey: Guid(bf56689cfb1bfd54387f4f517d55d6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NetworkCommandLine.cs using Guid(bf56689cfb1bfd54387f4f517d55d6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f16eeff4dd7dba5c98c703d5ec2e70') in 0.004949 seconds
+  Import took 0.006853 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003865 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.711 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.2 MB.
+System memory in use after: 64.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1720.
+Total: 1.566000 ms (FindLiveObjects: 0.136900 ms CreateObjectMapping: 0.029600 ms MarkObjects: 1.346600 ms  DeleteObjects: 0.051700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.635261 seconds.
+  path: Assets/Scripts/NetworkCommandLine.cs
+  artifactKey: Guid(bf56689cfb1bfd54387f4f517d55d6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NetworkCommandLine.cs using Guid(bf56689cfb1bfd54387f4f517d55d6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5517b990a759f0045944bb41bc96dfbd') in 0.008883 seconds
+  Import took 0.011147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001832 seconds.
+  path: Assets/Scripts/NetworkCommandLine.cs
+  artifactKey: Guid(bf56689cfb1bfd54387f4f517d55d6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NetworkCommandLine.cs using Guid(bf56689cfb1bfd54387f4f517d55d6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5517b990a759f0045944bb41bc96dfbd') in 0.003976 seconds
+  Import took 0.006096 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.913 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.2 MB.
+System memory in use after: 64.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1723.
+Total: 2.269200 ms (FindLiveObjects: 0.135800 ms CreateObjectMapping: 0.028000 ms MarkObjects: 2.055200 ms  DeleteObjects: 0.049400 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.9 MB.
+System memory in use after: 40.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1723.
+Total: 2.184000 ms (FindLiveObjects: 0.292200 ms CreateObjectMapping: 0.130100 ms MarkObjects: 1.706000 ms  DeleteObjects: 0.054100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 800.952751 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd9eeb2dcbab7536107e176c73417f33') in 0.052526 seconds
+  Import took 0.054687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.729420 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277d4411d8e9a79939b2236b78d2c363') in 0.023638 seconds
+  Import took 0.025776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.405764 seconds.
+  path: Assets/Mini First Person Controller/First Person Camera.prefab
+  artifactKey: Guid(9598f8fadac39a44f8c230e7c8d8c57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Camera.prefab using Guid(9598f8fadac39a44f8c230e7c8d8c57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb247df2cbcf58acf9215656776500fb') in 0.006247 seconds
+  Import took 0.008140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100780 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff20dd98d72b42449baf8ed0fb33922d') in 0.011076 seconds
+  Import took 0.013157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001166 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff20dd98d72b42449baf8ed0fb33922d') in 0.014084 seconds
+  Import took 0.016051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.314271 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bda8d97a33160a0fc597a2017368140') in 0.010778 seconds
+  Import took 0.028801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 407.116200 seconds.
+  path: Assets/Mini First Person Controller/LocalPlayerStuff.prefab
+  artifactKey: Guid(b0368981d88c6ad44802e197116434ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/LocalPlayerStuff.prefab using Guid(b0368981d88c6ad44802e197116434ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12769318fb285bf4b9803b2ad204314') in 0.012973 seconds
+  Import took 0.015090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 156.931904 seconds.
+  path: Assets/Mini First Person Controller/LocalPlayer.prefab
+  artifactKey: Guid(bcf63f35122a99b4ba6136c669950aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/LocalPlayer.prefab using Guid(bcf63f35122a99b4ba6136c669950aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fe59cc4948ce566434e79df808a10c9') in 0.010293 seconds
+  Import took 0.012408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003301 seconds.
+  path: Assets/Mini First Person Controller/LocalPlayer.prefab
+  artifactKey: Guid(bcf63f35122a99b4ba6136c669950aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/LocalPlayer.prefab using Guid(bcf63f35122a99b4ba6136c669950aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fe59cc4948ce566434e79df808a10c9') in 0.007580 seconds
+  Import took 0.009784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1231.660658 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef05fba034d7a72647fa73b9ac1bf100') in 0.012829 seconds
+  Import took 0.015234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef05fba034d7a72647fa73b9ac1bf100') in 0.022911 seconds
+  Import took 0.025183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.408554 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f52202a417341be4d5d27a83a680e2') in 0.008100 seconds
+  Import took 0.010072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.962454 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb29457d038ccdfa4569e544943d97cf') in 0.006478 seconds
+  Import took 0.008568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.239837 seconds.
+  path: Assets/Mini First Person Controller/Scripts
+  artifactKey: Guid(efcc2f8b689b7c547a119dac5cf66a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Scripts using Guid(efcc2f8b689b7c547a119dac5cf66a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d65bf14c9e642d60aa6dacff678f72d') in 0.004867 seconds
+  Import took 0.006915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.551500 seconds.
+  path: Assets/Mini First Person Controller/Scripts/MountLocalPlayer.cs
+  artifactKey: Guid(ea2a158e7c979ec4b8ff7bf8c5ec0ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Scripts/MountLocalPlayer.cs using Guid(ea2a158e7c979ec4b8ff7bf8c5ec0ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bca365430a02a7fd7601177774c03d69') in 0.016321 seconds
+  Import took 0.018427 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003427 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.754 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.3 MB.
+System memory in use after: 64.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1728.
+Total: 1.629400 ms (FindLiveObjects: 0.150800 ms CreateObjectMapping: 0.027800 ms MarkObjects: 1.397200 ms  DeleteObjects: 0.052400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003655 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.799 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.3 MB.
+System memory in use after: 64.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1731.
+Total: 1.679200 ms (FindLiveObjects: 0.164200 ms CreateObjectMapping: 0.027800 ms MarkObjects: 1.433200 ms  DeleteObjects: 0.052600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003699 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.789 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.3 MB.
+System memory in use after: 64.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1734.
+Total: 1.397900 ms (FindLiveObjects: 0.142100 ms CreateObjectMapping: 0.028600 ms MarkObjects: 1.180900 ms  DeleteObjects: 0.045100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.310649 seconds.
+  path: Assets/Mini First Person Controller/Scripts/Components
+  artifactKey: Guid(27054f2851dc4314a8359af559137e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Scripts/Components using Guid(27054f2851dc4314a8359af559137e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c25ba168652959ddaeb062ab6ea5c91') in 0.009427 seconds
+  Import took 0.011488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.550913 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1619a3b0e8807e381e8609fec3a950c') in 0.027400 seconds
+  Import took 0.029533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 375.648329 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad5ed6fd67cae451831ec8d4a3e70c4a') in 0.004766 seconds
+  Import took 0.006969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.578682 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a539bed89eaf5aa9e14909ab587806') in 0.004393 seconds
+  Import took 0.006454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.750305 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f2348aecc97672564b08baa41f03ca9') in 0.004591 seconds
+  Import took 0.006792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.802889 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a09b46a63fb88513484bdb792cff83') in 0.041350 seconds
+  Import took 0.043499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.722587 seconds.
+  path: Assets/Mini First Person Controller/Scripts/MountLocalPlayer.cs
+  artifactKey: Guid(ea2a158e7c979ec4b8ff7bf8c5ec0ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Scripts/MountLocalPlayer.cs using Guid(ea2a158e7c979ec4b8ff7bf8c5ec0ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b88dc55509554c2764e13ee867b29d60') in 0.001962 seconds
+  Import took 0.003746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000696 seconds.
+  path: Assets/Mini First Person Controller/Scripts/MountLocalPlayer.cs
+  artifactKey: Guid(ea2a158e7c979ec4b8ff7bf8c5ec0ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Scripts/MountLocalPlayer.cs using Guid(ea2a158e7c979ec4b8ff7bf8c5ec0ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b88dc55509554c2764e13ee867b29d60') in 0.001939 seconds
+  Import took 0.003608 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003344 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.861 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.4 MB.
+System memory in use after: 64.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1738.
+Total: 1.365400 ms (FindLiveObjects: 0.141200 ms CreateObjectMapping: 0.027600 ms MarkObjects: 1.153700 ms  DeleteObjects: 0.042300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.166338 seconds.
+  path: Assets/Mini First Person Controller/Scripts/MountLocalPlayer.cs
+  artifactKey: Guid(ea2a158e7c979ec4b8ff7bf8c5ec0ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Scripts/MountLocalPlayer.cs using Guid(ea2a158e7c979ec4b8ff7bf8c5ec0ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba69dede21dc1defce7c7e80a2cd34fb') in 0.004977 seconds
+  Import took 0.006763 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003230 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.730 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.4 MB.
+System memory in use after: 64.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1741.
+Total: 1.585300 ms (FindLiveObjects: 0.129200 ms CreateObjectMapping: 0.032200 ms MarkObjects: 1.356800 ms  DeleteObjects: 0.065800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.679118 seconds.
+  path: Assets/Mini First Person Controller/Scripts/MountLocalPlayer.cs
+  artifactKey: Guid(ea2a158e7c979ec4b8ff7bf8c5ec0ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Scripts/MountLocalPlayer.cs using Guid(ea2a158e7c979ec4b8ff7bf8c5ec0ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8210368c53bcae44e069a86fae8e6d6e') in 0.003985 seconds
+  Import took 0.005905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.405082 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '426a02ffed30a404168f50f1de69d01a') in 0.051062 seconds
+  Import took 0.053054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.434482 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7781cddb916fb002152611e367bc4e') in 0.013886 seconds
+  Import took 0.017286 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.1 MB.
+System memory in use after: 40.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1742.
+Total: 1.685700 ms (FindLiveObjects: 0.137200 ms CreateObjectMapping: 0.026900 ms MarkObjects: 1.480900 ms  DeleteObjects: 0.040100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.570270 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed7531084f7ca285d74241fa857a09b') in 0.007092 seconds
+  Import took 0.009294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.217384 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef71af98217d703db30c6d787c70a771') in 0.005264 seconds
+  Import took 0.007237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.706878 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13e97d82df21fc75d67c7f46ff0b10d4') in 0.005327 seconds
+  Import took 0.007619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.809738 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e029c80621200f6ea535105815080c7d') in 0.005274 seconds
+  Import took 0.007570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.806074 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150734b579a4f5ec9c36b87665ec481e') in 0.013247 seconds
+  Import took 0.015249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.468238 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3474b9d6a62b5dd5ad9b5d249cf4c0c') in 0.015485 seconds
+  Import took 0.017594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.031188 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd90b1c93257f4af46d504063f707c7') in 0.010069 seconds
+  Import took 0.012354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.860295 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3774f0addfce3faf1093d184dfa567a7') in 0.010788 seconds
+  Import took 0.012760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.820142 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd4b41837baca41a2464db75a2026e07') in 0.011864 seconds
+  Import took 0.013806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.191877 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75fba5831506b50cb278bca1ac4e69e6') in 0.012852 seconds
+  Import took 0.015034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.758474 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd1894039541869cae64d928da4b1ff') in 0.011377 seconds
+  Import took 0.013466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.299648 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cde9e86a4ca1dc2fa76503e351716ac2') in 0.007214 seconds
+  Import took 0.009253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.854289 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42e50108937ab6ee6fdce919ff5835e') in 0.009628 seconds
+  Import took 0.011593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.999721 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef02f27e0e6d8cdaaa478154750f295') in 0.008403 seconds
+  Import took 0.010343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.735519 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462521b54d79f13b456b1fdb3536661d') in 0.003787 seconds
+  Import took 0.006004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.983750 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7299e4ad8a04d5a3549fcb06eded9500') in 0.004434 seconds
+  Import took 0.006555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.361207 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1296ab8b163729a6df874f1c33032d4') in 0.003885 seconds
+  Import took 0.006187 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003237 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.736 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1746.
+Total: 1.810200 ms (FindLiveObjects: 0.177000 ms CreateObjectMapping: 0.030300 ms MarkObjects: 1.549000 ms  DeleteObjects: 0.052200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.411539 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e3762434ed4706c36cf476df5d5b8b') in 0.022554 seconds
+  Import took 0.035659 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003425 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.736 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1749.
+Total: 1.807600 ms (FindLiveObjects: 0.164400 ms CreateObjectMapping: 0.030100 ms MarkObjects: 1.563700 ms  DeleteObjects: 0.048300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.590208 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8958f62bfef5b0c79fd5b6e97c307b0') in 0.028620 seconds
+  Import took 0.030698 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.5 MB.
+System memory in use after: 40.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1749.
+Total: 2.010200 ms (FindLiveObjects: 0.142100 ms CreateObjectMapping: 0.026800 ms MarkObjects: 1.796600 ms  DeleteObjects: 0.043900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.689962 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '940913258ae006e3146778d05fdd2811') in 0.005326 seconds
+  Import took 0.007673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.914213 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd308807c044bc72309cd062f9083a9af') in 0.004677 seconds
+  Import took 0.006574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(93aafe0c2e325f845ac4c065f5212f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd308807c044bc72309cd062f9083a9af') in 0.005233 seconds
+  Import took 0.007022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.980988 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a49741f84060ec3f5c70571237a295') in 0.035914 seconds
+  Import took 0.037954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.490570 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa159d4dc9a22abe568f2420c157fef2') in 0.008402 seconds
+  Import took 0.010339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.116024 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117f3ab523a09078db2c956c8744c657') in 0.012362 seconds
+  Import took 0.014438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007629 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117f3ab523a09078db2c956c8744c657') in 0.008593 seconds
+  Import took 0.010467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.398060 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31929a2f7bd94902a3c86194b711fbb8') in 0.061515 seconds
+  Import took 0.063882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.844290 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21eed45ac0bfe5e99d8ec6eb205d4542') in 0.013482 seconds
+  Import took 0.015481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.692726 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '709208d12bf70c12fe4ac55841c369a1') in 0.014293 seconds
+  Import took 0.016441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.601155 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a42a99280aa284eb96b64a6a1aabdb') in 0.031122 seconds
+  Import took 0.033224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.586449 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '352c15cda9b3cdf319adb48e6d0ba120') in 0.008417 seconds
+  Import took 0.010503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.802446 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8a7c7dab80edbae45d3df5db4f22a03') in 0.010167 seconds
+  Import took 0.012151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.945508 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70aecd5297980b1d0a99133cb001a205') in 0.004560 seconds
+  Import took 0.006636 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003426 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.729 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1754.
+Total: 1.572500 ms (FindLiveObjects: 0.138800 ms CreateObjectMapping: 0.030400 ms MarkObjects: 1.354600 ms  DeleteObjects: 0.048000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003549 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1757.
+Total: 1.478300 ms (FindLiveObjects: 0.180000 ms CreateObjectMapping: 0.029000 ms MarkObjects: 1.220100 ms  DeleteObjects: 0.048200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.752 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1760.
+Total: 1.607000 ms (FindLiveObjects: 0.164000 ms CreateObjectMapping: 0.028600 ms MarkObjects: 1.365300 ms  DeleteObjects: 0.048400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003273 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1763.
+Total: 1.396600 ms (FindLiveObjects: 0.135400 ms CreateObjectMapping: 0.027400 ms MarkObjects: 1.191300 ms  DeleteObjects: 0.041900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004100 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.984 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1766.
+Total: 1.632100 ms (FindLiveObjects: 0.153200 ms CreateObjectMapping: 0.029200 ms MarkObjects: 1.399800 ms  DeleteObjects: 0.049100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003508 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.727 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1227 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.6 MB.
+System memory in use after: 64.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1761.
+Total: 1.566000 ms (FindLiveObjects: 0.144000 ms CreateObjectMapping: 0.027300 ms MarkObjects: 1.344800 ms  DeleteObjects: 0.048800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003398 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.727 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1771.
+Total: 2.123700 ms (FindLiveObjects: 0.152400 ms CreateObjectMapping: 0.034900 ms MarkObjects: 1.882400 ms  DeleteObjects: 0.053200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 529.938083 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccf297c2e3147591af93a249520e0fc7') in 0.054810 seconds
+  Import took 0.056864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.140789 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd049b2be00ef94c848c8a18e8e170f') in 0.010203 seconds
+  Import took 0.012508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.511166 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c45442b9f9ddf25ab1d2da15bf8df66b') in 0.013389 seconds
+  Import took 0.015526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.667356 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f29316fb763b188d8f63a1b16f598b') in 0.013498 seconds
+  Import took 0.015626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.139430 seconds.
+  path: Assets/Mini First Person Controller/Scripts/Mounter.cs
+  artifactKey: Guid(625b1de4b497ff34cb7b1480a7ee17cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Scripts/Mounter.cs using Guid(625b1de4b497ff34cb7b1480a7ee17cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12f8015f8223b2b539221fe00a19a77') in 0.006086 seconds
+  Import took 0.008433 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003441 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.735 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1776.
+Total: 1.441800 ms (FindLiveObjects: 0.147200 ms CreateObjectMapping: 0.030300 ms MarkObjects: 1.216900 ms  DeleteObjects: 0.046600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003728 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.746 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1779.
+Total: 1.393700 ms (FindLiveObjects: 0.142900 ms CreateObjectMapping: 0.028000 ms MarkObjects: 1.181900 ms  DeleteObjects: 0.040100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.790280 seconds.
+  path: Assets/Mini First Person Controller/Scripts/Mounter.cs
+  artifactKey: Guid(625b1de4b497ff34cb7b1480a7ee17cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Scripts/Mounter.cs using Guid(625b1de4b497ff34cb7b1480a7ee17cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a07d1f013f2c3a1927c95973e74b02') in 0.005025 seconds
+  Import took 0.006874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.882623 seconds.
+  path: Assets/Mini First Person Controller/Scripts/Mounter.cs
+  artifactKey: Guid(625b1de4b497ff34cb7b1480a7ee17cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Scripts/Mounter.cs using Guid(625b1de4b497ff34cb7b1480a7ee17cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8c2bf0336064ebda8ce1dbbc8dba613') in 0.002917 seconds
+  Import took 0.004861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.290101 seconds.
+  path: Assets/Mini First Person Controller/Audio/Steps.wav
+  artifactKey: Guid(f8c14f2814b4b124a894a65c32c44987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Audio/Steps.wav using Guid(f8c14f2814b4b124a894a65c32c44987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '241b92ad3dc863ec391db671828a6d00') in 0.143706 seconds
+  Import took 0.145666 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004055 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.742 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1785.
+Total: 1.521400 ms (FindLiveObjects: 0.148700 ms CreateObjectMapping: 0.029000 ms MarkObjects: 1.298100 ms  DeleteObjects: 0.044500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.208204 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b7510c2466138f5275d44b010af995') in 0.058056 seconds
+  Import took 0.065865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.517002 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal 1.prefab
+  artifactKey: Guid(4606186f5b136f64594e1aea172bf810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal 1.prefab using Guid(4606186f5b136f64594e1aea172bf810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac88792f9c7d5b98d85a3aed7614c90e') in 0.012249 seconds
+  Import took 0.014485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.865621 seconds.
+  path: Assets/Mini First Person Controller/Player.prefab
+  artifactKey: Guid(4606186f5b136f64594e1aea172bf810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/Player.prefab using Guid(4606186f5b136f64594e1aea172bf810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d3f294a3ce8738f932ab7998420a6e2') in 0.010114 seconds
+  Import took 0.012525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.431117 seconds.
+  path: Assets/Mini First Person Controller/First Person Controller Minimal.prefab
+  artifactKey: Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini First Person Controller/First Person Controller Minimal.prefab using Guid(f2e0b7ae4dae8cf44955bccd3512b213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f86dc9f2de7f11cbaad4076630b919d') in 0.013802 seconds
+  Import took 0.015962 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.8 MB.
+System memory in use after: 40.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1786.
+Total: 1.937500 ms (FindLiveObjects: 0.148000 ms CreateObjectMapping: 0.029200 ms MarkObjects: 1.702100 ms  DeleteObjects: 0.057300 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.8 MB.
+System memory in use after: 40.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1786.
+Total: 1.733700 ms (FindLiveObjects: 0.147100 ms CreateObjectMapping: 0.027200 ms MarkObjects: 1.521300 ms  DeleteObjects: 0.037400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003451 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.731 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.9 MB.
+System memory in use after: 65.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1789.
+Total: 1.490600 ms (FindLiveObjects: 0.153000 ms CreateObjectMapping: 0.028600 ms MarkObjects: 1.267400 ms  DeleteObjects: 0.040500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003166 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.735 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1235 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.9 MB.
+System memory in use after: 65.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1792.
+Total: 1.471300 ms (FindLiveObjects: 0.158300 ms CreateObjectMapping: 0.027700 ms MarkObjects: 1.230800 ms  DeleteObjects: 0.053500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.6 MB.
+System memory in use after: 40.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1792.
+Total: 1.451800 ms (FindLiveObjects: 0.163000 ms CreateObjectMapping: 0.029800 ms MarkObjects: 1.215200 ms  DeleteObjects: 0.042800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
